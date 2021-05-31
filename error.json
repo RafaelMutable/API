@@ -1,0 +1,12 @@
+{
+    "errors": [
+        {
+            "id": 1,
+            "description": "Invalid ID value for user."
+        },
+        {
+            "id": 2,
+            "description": "No user with requested ID found."
+        }
+    ]
+}

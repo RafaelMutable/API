@@ -1,0 +1,25 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "username": "Rafayel",
+            "email": "rafayel@mutable.io"
+        },
+        {
+            "id": 2,
+            "username": "Bayandur",
+            "email": "bayandur@mutable.io"
+        },
+        {
+            "id": 3,
+            "username": "Hasmik",
+            "email": "hasmik@mutable.io"
+
+        },
+        {
+            "id": 4,
+            "username": "Hugo",
+            "email": "hugo@mutable.io"
+        }
+    ]
+}
